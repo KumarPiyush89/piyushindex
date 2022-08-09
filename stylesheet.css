@@ -48,9 +48,18 @@ strong
 }
 img 
 {
-    margin-left: 40%;
+    margin-left: 20%;
 }
 b
 {
     bottom: 5%;
+}
+.logo
+{
+    
+    font-weight: 600;
+    width: 30%;
+    margin-left: 100px;
+    color: #FFDE59;
+    font-size: 70px;
 }
